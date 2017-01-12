@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tom's Site</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/script.js"></script>
+  </head>
+  <body>
+    <a href="http://google.com">Google</a>
+    <img src="https://static.pexels.com/photos/73805/michelangelo-abstract-boy-child-73805.jpeg" />
+    <a href="http://google.com'><img src="https://static.pexels.com/photos/5199/hands-coffee-cup-apple.jpg"/></a>
+    <p>This is a paragraph. It contains words.</p> 
+    <a href="mailto:tombum@me.com?subject=This%20is%20Tom">Contact Me</a>
+  </body>
+</html>
